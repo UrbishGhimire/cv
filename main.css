@@ -1,0 +1,32 @@
+body {
+  background-color: #181818;
+}
+div{
+  color:#708097;
+}
+hr{
+  border-style:none ;
+  border-top-style:  dotted ;
+  border-color: rgb(128, 128, 128);
+  width: 10% ;
+  border-width: 0.55em 0 0 0 ;
+}
+h1{
+  color: 	#90D848;
+}
+h3{
+  color: 	#668b1c;
+}
+.white-accent{
+  color: #e7d5d5;
+}
+p,ul{
+  color:#708097;
+}
+form{
+  color: 	#708097;
+}
+.table-contact-me{
+  color: #668b1c;
+  padding: 10px;
+}
